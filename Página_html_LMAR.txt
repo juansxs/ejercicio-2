@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" name="description" content="Ejercicio 1 HTML - Corrige los errores">
+        <title>Ejercicio 1 de HTML</title>
+    </head>
+    <body>
+    <h1>Citas célebres del mundo de la informática</h1>
+    <p>Hay una antigua historia sobre una persona que quería que su ordenador fuese tan fácil de utilizar como su teléfono. Estos deseos se han hecho realidad, ya no sé cómo usar mi teléfono</p>
+    <p>"Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza"</p>
+    <p>Controlar la complejidad es la esencia de la programación</p>   
+    </body>  
+</html>
+
+<!--el body empieza dentro del head, lo cuál es un error.-->
+<!--hay una parte del texto fuera del body, lo cuál es otro error.-->
+<!--al html del final le falta una / para indicar que es el que cierra el código.
+<!- -falta la exclamación de doctype-->
+<!--misma etiqueta para 2 atributos se puede simplificar en uno solo -->
+<!--a la primera linea de texto le falta la /p del final para indicar el final de esa linea de text.-->
+<!--las comillas empiezan pero no terminan-->
